@@ -23,7 +23,7 @@ ingress:
   enabled: true
   secret:
     enabled: true
-  host: plec-demo.dev.numerique-interieur.com
+  host: bsomon-demo.apps.app1.numerique-interieur.com
 
 resources: 
   limits:
